@@ -4,7 +4,7 @@
 - Class Date: Mayo 08 de 2024
 - Facilitator: will_i_am
 - Prueba de cambio - Credential manager
-- Prueba de segundo cambio - sign out otro usuario
+- Prueba de segundo cambio - sign out otr usuario
 - Prueba otro cambio logeo wmr
 - Prueba otro cambio OK!!
 - prueba comitters
