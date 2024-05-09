@@ -1,7 +1,5 @@
 -Wilson Vera Villamizar 2
 # GitHub for Developers
-czang
-wmartinezr
 
 - Class Date: Mayo 08 de 2024
 - Facilitator: will_i_am
