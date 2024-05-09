@@ -10,9 +10,7 @@
 - prueba comitters
 - este es mas nuevo
 - prueba fe
-=======
-- cambio cz
-=======
+
 - Author: Hugo Leonardo Barragán Bohórquez
 main
 - Class Date: THIS-DATE
